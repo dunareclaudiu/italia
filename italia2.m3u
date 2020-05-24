@@ -27,7 +27,7 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18250
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="005.png",Canale 5
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
-#EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="1114.jpeg",Discovery Nove
+#EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://alchetron.com/cdn/nove-tv-channel-b149352f-c91b-4cac-b9db-0fca53f67a5-resize-750.jpeg",Discovery Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1,Discovery DMAX
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
