@@ -95,8 +95,6 @@ http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18323
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18325
 #EXTINF:-1,Sky Sport 24
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18326
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2ysmlS3",Sportalia
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18332
 #EXTINF:-1,EuroSport 1
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18345
 #EXTINF:-1,EuroSport 2
@@ -104,7 +102,7 @@ http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18346
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2zq330e",Digi Sport 1
 https://goool7.ws/lba/YzkwNTkyYmI5N2IyMzkxNDI2MjZkZjJmZjNkMTkwYWM=/g3/ds1ro.m3u8?token=YzkwNTkyYmI5N2IyMzkxNDI2MjZkZjJmZjNkMTkwYWM=&id=N2E1ZTM1NmZlZmM1NWQ4ZWM0ZDdkMGJhZGFkN2Q5ZTY=&vip=1590306755&dip=MzMyOGE1Y2JlOTI2ZTU4MDM1ZjRhODkxYjBiZDBhNTQ=&pip=Njg0ZjkxMzM3ZTEyMGRiYWJhMTAxNjBhOTI1ZjEwOGM=&hip=YTg5NDU1ZDk3ZTNmOTRkZGUwMzU0NmU0NTFhOTU4ZjM=
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2zfmQiZ",Digi Sport 2
-https://08sportbar.com/lba/MTQ4ZWVlOWNkNDk1MmI2ZjBmOGE3NmU0ODkwOWQ1M2Q=/g7/digisport2ro.m3u8
+https://08sportbar.net/lba/MTQ4ZWVlOWNkNDk1MmI2ZjBmOGE3NmU0ODkwOWQ1M2Q=/g7/digisport2ro.m3u8?token=MTQ4ZWVlOWNkNDk1MmI2ZjBmOGE3NmU0ODkwOWQ1M2Q=&id=YmViOTY3OTBiNmRlMmY2ZTg2YjAzZjE0ZjhmMGQwYTQ=&vip=1590307128&dip=MjQ5ZGQwZWVmMzVmMzI2ZmQ1MGM2ZGYyYzEwOTZiMzI=&pip=Njg0ZjkxMzM3ZTEyMGRiYWJhMTAxNjBhOTI1ZjEwOGM=&hip=YTg5NDU1ZDk3ZTNmOTRkZGUwMzU0NmU0NTFhOTU4ZjM=
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2A6p1oO",Company TV
 http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
 #EXTINF:-1,Deejay TV
@@ -114,7 +112,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3daPeBe",RTL 102.5 TV
 https://rtl-radio-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2Tyq1Jc",Radio Capital TV
-https://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u
 https://rtl-radio-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2TxUqHS",TV 2000
 http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
