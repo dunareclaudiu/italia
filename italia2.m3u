@@ -1,237 +1,127 @@
 #EXTM3U
-#EXTINF:-1,IT| Rai 1
+#EXTINF:-1,IT| tvg-id="" group-title="RAI" tvg-logo="001.png",Rai 1
 https://raiuno2-live.akamaized.net/hls/live/598309/raiuno2/raiuno2/playlist.m3u8
-#EXTINF:-1,IT| Rai 2 HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18228
 #EXTINF:-1,IT| Rai 2
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18229
-#EXTINF:-1,IT| Rai 3 HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18230
-#EXTINF:-1,IT| Rai 4 HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18231
+http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18228
+#EXTINF:-1,IT| Rai 3
+https://everyrai-lh.akamaihd.net/i/tgrfriuli_1@309207/index_900_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,IT| Rai 4
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18232
-#EXTINF:-1,IT| Rai 5 HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18233
+https://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
 #EXTINF:-1,IT| Rai 5
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18234
+https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8
 #EXTINF:-1,IT| Rai Gulp
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18235
-#EXTINF:-1,IT| Rai Movie HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18236
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+#EXTINF:-1,IT| Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1,IT| Rai News 24
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18238
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1200/chunklist.m3u8
 #EXTINF:-1,IT| Rai Premium
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18239
-#EXTINF:-1,IT| Rai Scuola
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18240
-#EXTINF:-1,IT| Rai Sport 1 HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18241
-#EXTINF:-1,IT| Rai Sport 2
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8
+#EXTINF:-1,Rai Sport +
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18242
-#EXTINF:-1,IT| Rai Storia
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18243
-#EXTINF:-1,IT| Real Giallo
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18244
-#EXTINF:-1,IT| Real Time +1 HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18245
-#EXTINF:-1,IT| Real Time HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18246
 #EXTINF:-1,IT| Rete 4
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18247
-#EXTINF:-1,IT| Rete 4
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18248
-#EXTINF:-1,IT| Italia Uno
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18249
-#EXTINF:-1,IT| Italia 2 HD
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+#EXTINF:-1,IT| Italia 1
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/index.m3u8
+#EXTINF:-1,IT| Italia 2
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18250
-#EXTINF:-1,IT| Canale 5 HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18251
 #EXTINF:-1,IT| Canale 5
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18252
-#EXTINF:-1,IT| RSI La 1 HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18253
-#EXTINF:-1,IT| RSI La 2 HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18254
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
+#EXTINF:-1,Discovery Nove
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+#EXTINF:-1,Discovery DMAX
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
+#EXTINF:-1,IT| Discovery Giallo
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+#EXTINF:-1,IT| Discovery Real Time
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+#EXTINF:-1,Motor Trend
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+#EXTINF:-1,Home & Garden Tv
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
+#EXTINF:-1,Spike
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-b.m3u8
+#EXTINF:-1,Focus
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(FU)/index.m3u8
+#EXTINF:-1,Cine 34
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
+#EXTINF:-1,La 5
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KA)/index.m3u8
+#EXTINF:-1,Iris
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KI)/index.m3u8
+#EXTINF:-1,Top Crime
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LT)/index.m3u8
+#EXTINF:-1,Mediaset 20
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LB)/index.m3u8
 #EXTINF:-1,IT| Mediaset Extra
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18255
 #EXTINF:-1,IT| Mediaset TGCOM24
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18256
-#EXTINF:-1,IT| Mediaset TGCOM24
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18257
-#EXTINF:-1,IT| Sky Cinema Uno HD
+#EXTINF:-1,IT| Sky Cinema Uno
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18258
-#EXTINF:-1,IT| Sky Cinema Uno +24 HD
+#EXTINF:-1,IT| Sky Cinema 1
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18259
-#EXTINF:-1,IT| Sky Cinema Comedy HD
+#EXTINF:-1,IT| Sky Cinema Comedy
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18260
-#EXTINF:-1,IT| Sky Cinema Drama HD
+#EXTINF:-1,IT| Sky Cinema Drama
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18261
-#EXTINF:-1,IT| Sky Cinema Due HD
+#EXTINF:-1,IT| Sky Cinema Due
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18262
-#EXTINF:-1,IT| Sky Cinema Family HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18263
-#EXTINF:-1,IT| Sky Cinema Action HD
+#EXTINF:-1,IT| Sky Cinema Action
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18264
-#EXTINF:-1,IT| Sky Cinema Romance HD
+#EXTINF:-1,IT| Sky Cinema Romance
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18265
-#EXTINF:-1,IT| Sky Cinema Suspense HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18266
-#EXTINF:-1,IT| Sky 3D
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18267
-#EXTINF:-1,IT| Sky Arte HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18268
-#EXTINF:-1,IT| Sky Atlantic HD
+#EXTINF:-1,IT| Sky Atlantic
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18269
-#EXTINF:-1,IT| FOX HD
+#EXTINF:-1,IT| FOX
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18270
-#EXTINF:-1,IT| Fox Crime HD
+#EXTINF:-1,IT| Fox Crime 
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18271
-#EXTINF:-1,IT| Fox Crime HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18272
-#EXTINF:-1,IT| Fox Crime
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18273
 #EXTINF:-1,IT| Fox Life +1
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18274
-#EXTINF:-1,IT| Fox Life HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18275
-#EXTINF:-1,IT| PrimaFila 1 HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18276
-#EXTINF:-1,IT| PrimaFila 2 HD
+#EXTINF:-1,IT| PrimaFila Super
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18277
-#EXTINF:-1,IT| PrimaFila 3 HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18278
-#EXTINF:-1,IT| PrimaFila 4 HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18279
-#EXTINF:-1,IT| PrimaFila 5 HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18280
-#EXTINF:-1,IT| PrimaFila 6 HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18281
-#EXTINF:-1,IT| PrimaFila 7 HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18282
-#EXTINF:-1,IT| PrimaFila 8 HD
+#EXTINF:-1,IT| PrimaFila Super 2
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18283
-#EXTINF:-1,IT| PrimaFila 9 HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18284
-#EXTINF:-1,IT| Premium Cinema +24
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18285
 #EXTINF:-1,IT| Premium Cinema Comedy
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18286
-#EXTINF:-1,IT| Premium Cinema Energy
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18287
-#EXTINF:-1,IT| Premium Cinema HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18288
 #EXTINF:-1,IT| Premium Crime
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18289
-#EXTINF:-1,IT| Premium Crime HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18290
 #EXTINF:-1,IT| Premium Emotion
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18291
-#EXTINF:-1,IT| Premium Stories
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18292
-#EXTINF:-1,IT| Premium Studio Universal
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18293
 #EXTINF:-1,IT| Premium Action
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18294
-#EXTINF:-1,IT| Dea Junior
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18295
-#EXTINF:-1,IT| Disney Channel  1 HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18296
-#EXTINF:-1,IT| Disney Channel HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18297
-#EXTINF:-1,IT| Disney Channel
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18298
-#EXTINF:-1,IT| Disney Junior
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18299
-#EXTINF:-1,IT| Nick Junior
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18300
-#EXTINF:-1,IT| Nickelodeon
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18301
-#EXTINF:-1,IT| Cartoonito
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18303
-#EXTINF:-1,IT| Cartoonito
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18304
-#EXTINF:-1,IT| Rai YoYo HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18305
-#EXTINF:-1,IT| Boing
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18306
-#EXTINF:-1,IT| K2
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18307
-#EXTINF:-1,IT| K2
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18308
-#EXTINF:-1,IT| FOX Animation FHD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18309
-#EXTINF:-1,IT| Frisbee
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18310
-#EXTINF:-1,IT| |IT| Manga
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18311
-#EXTINF:-1,IT| MANGA
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18312
-#EXTINF:-1,IT| Super!
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18313
-#EXTINF:-1,IT| Sky Calcio 1
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18314
-#EXTINF:-1,IT| Sky Calcio 2
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18315
-#EXTINF:-1,IT| Sky Calcio 3 HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18316
-#EXTINF:-1,IT| Sky Calcio 4 HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18317
-#EXTINF:-1,IT| Sky Calcio 5 HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18318
-#EXTINF:-1,IT| Sky Supercalcio Serie A HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18320
-#EXTINF:-1,IT| Sky Supercalcio Serie A
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18321
-#EXTINF:-1,IT| Sky Sport Serie A FHD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18322
-#EXTINF:-1,IT| Sky Sport F1 HD
+#EXTINF:-1,IT| Sky Sport F1
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18323
-#EXTINF:-1,IT| Sky Sport MotoGP HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18324
 #EXTINF:-1,IT| Sky Sport 1
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18325
-#EXTINF:-1,IT| Sky Sport 24 HD
+#EXTINF:-1,IT| Sky Sport 24
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18326
-#EXTINF:-1,IT| Sky Sport Football HD
+#EXTINF:-1,IT| Sky Sport Football
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18327
-#EXTINF:-1,IT| Sky Sport NBA HD
+#EXTINF:-1,IT| Sky Sport NBA
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18328
-#EXTINF:-1,IT| Sky Sport Plus HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18329
-#EXTINF:-1,IT| Sky Sport Plus
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18330
-#EXTINF:-1,IT| Sky Sport Uno FHD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18331
 #EXTINF:-1,IT| Sportalia
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18332
-#EXTINF:-1,IT| Super TV
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18333
-#EXTINF:-1,IT| Super Tennis HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18334
-#EXTINF:-1,IT| SuperTennis
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18335
-#EXTINF:-1,IT| Inter Channel
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18336
-#EXTINF:-1,IT| Juventus Channel
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18337
-#EXTINF:-1,IT| Lazio Style Channel
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18338
-#EXTINF:-1,IT| Milan Channel
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18339
-#EXTINF:-1,IT| Roma Channel
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18340
-#EXTINF:-1,IT| Wrestling
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18341
-#EXTINF:-1,IT| Pesca e Caccia
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18342
-#EXTINF:-1,IT| Caccia e Pesca
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18343
-#EXTINF:-1,IT| Caccia e Pesca
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18344
-#EXTINF:-1,IT| EuroSport 1 HD
+#EXTINF:-1,IT| EuroSport 1
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18345
-#EXTINF:-1,IT| EuroSport 2 HD
+#EXTINF:-1,IT| EuroSport 2
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18346
-#EXTINF:-1,IT| AutoMoto TV
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18347
+#EXTINF:-1,IT| Digi Sport 1
+https://sportbar.biz/lba/YzA3Mzg0ZWJiODEwZjg5ZDRhOTNhOTNmM2EyNjM4MTk=/g3/ds1ro.m3u8
+#EXTINF:-1,IT| Digi Sport 2
+https://08sportbar.com/lba/MTQ4ZWVlOWNkNDk1MmI2ZjBmOGE3NmU0ODkwOWQ1M2Q=/g7/digisport2ro.m3u8
+#EXTINF:-1,Company TV
+http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
+#EXTINF:-1,Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1,M2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,RTL 102.5 TV
+http://sunatv.net:25461/02296217068477/38R6m3CzPR/56184
+#EXTINF:-1,TV 2000
+http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
+#EXTINF:-1,History Lab
+http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1,Boing
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/index.m3u8
