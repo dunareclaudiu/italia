@@ -112,6 +112,7 @@ http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3bZ4KyW",M2o TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3daPeBe",RTL 102.5 TV
+https://rtl-radio-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2Tyq1Jc",Radio Capital TV
 https://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 https://rtl-radio-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
