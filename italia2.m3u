@@ -53,14 +53,6 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LB)/index.m3u8
 #EXTINF:-1,Mediaset Extra
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18255
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2TB8EaK",Sky Cinema Drama
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18261
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/36o4CYG",Sky Cinema Due
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18262
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3e9oDVi",Sky Cinema Action
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18264
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2TAL9i9",Sky Atlantic
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18269
 #EXTINF:-1,Fox Life +1
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18274
 #EXTINF:-1,Sky Sport F1
