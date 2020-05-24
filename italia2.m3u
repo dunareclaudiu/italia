@@ -21,8 +21,6 @@ http://proiptv.tn:1234/salih2020/2020salih/1315
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="006.png",Italia 1
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/index.m3u8
-#EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="026.png",Italia 2
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18250
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="005.png",Canale 5
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/3ghJE27",Discovery Nove
@@ -71,6 +69,8 @@ https://rtl-radio-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2ZyD4yu",History Lab
 http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="026.png",Italia 2
+http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18250
 #EXTINF:-1,Boing
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="030.png",Rai Gulp
