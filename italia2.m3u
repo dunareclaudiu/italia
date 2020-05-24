@@ -9,8 +9,6 @@ https://everyrai-lh.akamaihd.net/i/tgrfriuli_1@309207/index_900_av-b.m3u8?sd=10&
 https://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="017.png",Rai 5
 https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8
-#EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="030.png",Rai Gulp
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="018.png",Rai Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="032.png",Rai News 24
@@ -55,8 +53,6 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LB)/index.m3u8
 #EXTINF:-1,Mediaset Extra
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18255
-#EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/36y8YfW",Mediaset TGCOM24
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18256
 #EXTINF:-1,tvg-id="" group-title="Sky",Sky Uno
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18258
 #EXTINF:-1,tvg-id="" group-title="Sky",Sky Cinema Comedy
@@ -67,8 +63,6 @@ http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18261
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18262
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3e9oDVi",Sky Cinema Action
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18264
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3bZiTfF",Sky Cinema Romance
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18265
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2TAL9i9",Sky Atlantic
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18269
 #EXTINF:-1,FOX
@@ -109,3 +103,5 @@ http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
 http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
 #EXTINF:-1,Boing
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/index.m3u8
+#EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="030.png",Rai Gulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
