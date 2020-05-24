@@ -53,10 +53,6 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LB)/index.m3u8
 #EXTINF:-1,Mediaset Extra
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18255
-#EXTINF:-1,tvg-id="" group-title="Sky",Sky Uno
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18258
-#EXTINF:-1,tvg-id="" group-title="Sky",Sky Cinema Comedy
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18260
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2TB8EaK",Sky Cinema Drama
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18261
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/36o4CYG",Sky Cinema Due
@@ -65,26 +61,12 @@ http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18262
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18264
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2TAL9i9",Sky Atlantic
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18269
-#EXTINF:-1,FOX
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18270
 #EXTINF:-1,Fox Life +1
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18274
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3cYgT8J",PrimaFila 1
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18277
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3cYgT8J",PrimaFila 2
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18283
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2ZwpT0P",Premium Cinema Comedy
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18286
 #EXTINF:-1,Sky Sport F1
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18323
 #EXTINF:-1,Sky Sport 1
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18325
-#EXTINF:-1,Sky Sport 24
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18326
-#EXTINF:-1,EuroSport 1
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18345
-#EXTINF:-1,EuroSport 2
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18346
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2zq330e",Digi Sport 1
 
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2zfmQiZ",Digi Sport 2
