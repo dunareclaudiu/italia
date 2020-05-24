@@ -43,7 +43,7 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-b.m3u8
 #EXTINF:-1,Focus
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(FU)/index.m3u8
-#EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/2WWN6aC"Cine 34
+#EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/2WWN6aC",Cine 34
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
 #EXTINF:-1,La 5
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KA)/index.m3u8
