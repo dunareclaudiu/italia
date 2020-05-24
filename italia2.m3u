@@ -27,23 +27,23 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18250
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="005.png",Canale 5
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
-#EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/3ghJE27",Discovery Nove
+#EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/3ghJE27",Discovery Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
-#EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/2LW6Dle",Discovery DMAX
+#EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/2LW6Dle",Discovery DMAX
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
-#EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/2XmSLWJ",Discovery Giallo
+#EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/2XmSLWJ",Discovery Giallo
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
-#EXTINF:-1,Discovery Real Time
+#EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/3efsC2Y",Discovery Real Time
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
-#EXTINF:-1,Motor Trend
+#EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/2zpQHVR",Discovery Motor Trend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-#EXTINF:-1,Home & Garden Tv
+#EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/3d0Sq2p",Discovery Home & Garden
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
 #EXTINF:-1,Spike
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-b.m3u8
 #EXTINF:-1,Focus
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(FU)/index.m3u8
-#EXTINF:-1,Cine 34
+#EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/2WWN6aC"Cine 34
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
 #EXTINF:-1,La 5
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KA)/index.m3u8
@@ -51,27 +51,25 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KI)/index.m3u8
 #EXTINF:-1,Top Crime
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LT)/index.m3u8
-#EXTINF:-1,Mediaset 20
+#EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/3daMqUI",Mediaset 20
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LB)/index.m3u8
 #EXTINF:-1,Mediaset Extra
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18255
-#EXTINF:-1,Mediaset TGCOM24
+#EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/36y8YfW",Mediaset TGCOM24
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18256
-#EXTINF:-1,Sky Uno
+#EXTINF:-1,tvg-id="" group-title="Sky",Sky Uno
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18258
-#EXTINF:-1,Sky Cinema 1
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18259
-#EXTINF:-1,Sky Cinema Comedy
+#EXTINF:-1,tvg-id="" group-title="Sky",Sky Cinema Comedy
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18260
-#EXTINF:-1,Sky Cinema Drama
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2TB8EaK",Sky Cinema Drama
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18261
-#EXTINF:-1,Sky Cinema Due
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/36o4CYG",Sky Cinema Due
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18262
-#EXTINF:-1,Sky Cinema Action
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3e9oDVi",Sky Cinema Action
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18264
-#EXTINF:-1,Sky Cinema Romance
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3bZiTfF",Sky Cinema Romance
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18265
-#EXTINF:-1,Sky Atlantic
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2TAL9i9",Sky Atlantic
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18269
 #EXTINF:-1,FOX
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18270
@@ -79,11 +77,11 @@ http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18270
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18271
 #EXTINF:-1,Fox Life +1
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18274
-#EXTINF:-1,PrimaFila Super
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3cYgT8J",PrimaFila 1
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18277
-#EXTINF:-1,PrimaFila Super 2
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3cYgT8J",PrimaFila 2
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18283
-#EXTINF:-1,Premium Cinema Comedy
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2ZwpT0P",Premium Cinema Comedy
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18286
 #EXTINF:-1,Premium Crime
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18289
@@ -97,31 +95,29 @@ http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18323
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18325
 #EXTINF:-1,Sky Sport 24
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18326
-#EXTINF:-1,Sky Sport Football
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18327
-#EXTINF:-1,Sky Sport NBA
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18328
-#EXTINF:-1,Sportalia
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2ysmlS3",Sportalia
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18332
 #EXTINF:-1,EuroSport 1
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18345
 #EXTINF:-1,EuroSport 2
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18346
-#EXTINF:-1,Digi Sport 1
-
-#EXTINF:-1,Digi Sport 2
-
-#EXTINF:-1,Company TV
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2zq330e",Digi Sport 1
+https://08sportbar.com/lba/YzA3Mzg0ZWJiODEwZjg5ZDRhOTNhOTNmM2EyNjM4MTk=/g3/ds1ro.m3u8
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2zfmQiZ",Digi Sport 2
+https://08sportbar.com/lba/MTQ4ZWVlOWNkNDk1MmI2ZjBmOGE3NmU0ODkwOWQ1M2Q=/g7/digisport2ro.m3u8
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2A6p1oO",Company TV
 http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
 #EXTINF:-1,Deejay TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1,M2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,RTL 102.5 TV
-
-#EXTINF:-1,TV 2000
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3bZ4KyW",M2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3daPeBe",RTL 102.5 TV
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2Tyq1Jc",Radio Capital TV
+https://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+https://rtl-radio-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2TxUqHS",TV 2000
 http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
-#EXTINF:-1,History Lab
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2ZyD4yu",History Lab
 http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
 #EXTINF:-1,Boing
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/index.m3u8
