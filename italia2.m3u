@@ -2,11 +2,11 @@
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="001.png",Rai 1
 https://raiuno2-live.akamaized.net/hls/live/598309/raiuno2/raiuno2/playlist.m3u8
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="002.png",Rai 2
-http://s3.smashmalta.com:82/live/smash/smash/55.ts?checkedby:iptvcat.com
+
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="003.png",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="004.png",Rai 4
-https://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
+
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="017.png",Rai 5
 http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/master.m3u8
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="018.png",Rai Movie
@@ -16,7 +16,7 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_12
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="019.png",Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8
 #EXTINF:-1,tvg-id="Rai Sport 2" group-title="RAI" tvg-logo="https://bit.ly/3ew49GP",Rai Sport
-http://tvpro.millenium-ott.com:25443/kAgGhGhiwI/TqzXDwaJ3o/59557?checkedby:iptvcat.com
+
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="004.png",Rete 4
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="006.png",Italia 1
@@ -40,7 +40,7 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/3d0Sq2p",Discovery Home & Garden
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/36xfi7u",Paramount Network
-http://151.33.110.216:9981/stream/channelid/282520575
+
 #EXTINF:-1,Spike
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-b.m3u8
 #EXTINF:-1,Focus
