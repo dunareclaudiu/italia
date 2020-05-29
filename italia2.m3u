@@ -84,4 +84,4 @@ http://livetr.teleromagna.it/sport/live/playlist.m3u8
 #EXTINF:-1,Boing
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="030.png",Rai Gulp
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+http://93.40.0.29:9981/stream/channelid/1568417466
