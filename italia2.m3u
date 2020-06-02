@@ -64,11 +64,13 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/3gnrBYw",TGCOM24
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KF)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2zq330e",Digi Sport 1
-http://82.77.146.3:8082/play/a02d
+http://185.229.139.65:8010/play/digisport1/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2zfmQiZ",Digi Sport 2
-http://82.77.146.3:8082/play/a04a
+http://185.229.139.65:8010/play/digisport2/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/3gBJ4MF",Sportitalia
 http://151.67.49.220:9981/stream/channelid/636928121
+#EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/3eMrC6F",Super Tennis
+http://185.229.139.65:8003/play/supertennishd
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2A6p1oO",Company TV
 http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
 #EXTINF:-1,Deejay TV
