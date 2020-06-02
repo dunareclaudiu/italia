@@ -63,10 +63,14 @@ http://151.67.49.220:9981/stream/channelid/1532039865
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KQ)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/3gnrBYw",TGCOM24
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KF)/index.m3u8
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2zq330e",Digi Sport 1
-http://185.229.139.65:8011/play/digisport1hd/index.m3u8
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2zfmQiZ",Digi Sport 2
-http://185.229.139.65:8011/play/digisport2hd/index.m3u8
+#EXTINF:-1,tvg-id="" group-title="Digi" tvg-logo="https://bit.ly/2zq330e",Digi Sport 1
+http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/5983
+#EXTINF:-1,tvg-id="" group-title="Digi" tvg-logo="https://bit.ly/2zfmQiZ",Digi Sport 2
+http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/5984
+#EXTINF:-1,tvg-id="" group-title="Digi" tvg-logo="https://bit.ly/3gKfDrW",Digi Sport 3
+http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/5985
+#EXTINF:-1,tvg-id="" group-title="Digi" tvg-logo="https://bit.ly/3cskbQu",Digi Sport 4
+http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/5986
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/3gBJ4MF",Sportitalia
 http://151.67.49.220:9981/stream/channelid/636928121
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2A6p1oO",Company TV
