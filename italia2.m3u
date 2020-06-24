@@ -16,7 +16,7 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_12
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="019.png",Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8
 #EXTINF:-1,tvg-id="Rai Sport 2" group-title="RAI" tvg-logo="https://bit.ly/3ew49GP",Rai Sport
-
+http://62.210.83.136:7898/zkfhNRSpJO/K5xk3WarA5/149028
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="004.png",Rete 4
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/2XgIrR9",Rete 4 HD
@@ -38,11 +38,11 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/3efsC2Y",Discovery Real Time
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/2zpQHVR",Discovery Motor Trend
-
+http://62.210.83.136:7898/zkfhNRSpJO/K5xk3WarA5/148807
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/3d0Sq2p",Discovery Home & Garden
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/36xfi7u",Paramount Network
-
+http://62.210.83.136:2095/zkfhNRSpJO/K5xk3WarA5/148786
 #EXTINF:-1,Spike
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-b.m3u8
 #EXTINF:-1,Focus
@@ -58,7 +58,7 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/3daMqUI",Mediaset 20
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LB)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/2XfCP9F",Cielo
-
+http://62.210.83.136:7898/zkfhNRSpJO/K5xk3WarA5/148785
 #EXTINF:-1,Mediaset Extra
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KQ)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/3gnrBYw",TGCOM24
@@ -71,8 +71,8 @@ http://82.77.146.3:8082/play/a04a
 http://82.77.146.3:8082/play/a00o
 #EXTINF:-1,tvg-id="" group-title="Digi" tvg-logo="https://bit.ly/3cskbQu",Digi Sport 4
 http://82.77.146.3:8082/play/a017
-#EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/3gBJ4MF",Sportitalia
-
+#EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/2Vdj4hC",Sky Sport Uno
+http://62.210.83.136:7898/zkfhNRSpJO/K5xk3WarA5/148957
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2A6p1oO",Company TV
 http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
 #EXTINF:-1,Deejay TV
