@@ -16,7 +16,7 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_12
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="019.png",Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8
 #EXTINF:-1,tvg-id="Rai Sport 2" group-title="RAI" tvg-logo="https://bit.ly/3ew49GP",Rai Sport
-http://151.67.49.220:9981/stream/channelid/425921801
+http://smartplaylist.nl:8080/Laila-Murica/tcfKVFsCl1/1264
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="004.png",Rete 4
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/2XgIrR9",Rete 4 HD
@@ -42,7 +42,7 @@ http://151.67.49.220:9981/stream/channelid/1568296618
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/3d0Sq2p",Discovery Home & Garden
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/36xfi7u",Paramount Network
-http://151.67.49.220:9981/stream/channelid/1183283293
+http://smartplaylist.nl:8080/Laila-Murica/tcfKVFsCl1/5218
 #EXTINF:-1,Spike
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-b.m3u8
 #EXTINF:-1,Focus
@@ -58,7 +58,7 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/3daMqUI",Mediaset 20
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LB)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/2XfCP9F",Cielo
-http://151.67.49.220:9981/stream/channelid/1532039865
+http://smartplaylist.nl:8080/Laila-Murica/tcfKVFsCl1/5217
 #EXTINF:-1,Mediaset Extra
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KQ)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/3gnrBYw",TGCOM24
