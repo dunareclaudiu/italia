@@ -6,7 +6,7 @@ http://213.45.113.140:9981/stream/channelid/27094221
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="003.png",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="004.png",Rai 4
-http://151.67.49.220:9981/stream/channelid/147562237
+http://62.210.83.136:2095/zkfhNRSpJO/K5xk3WarA5/148770
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="017.png",Rai 5
 http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/master.m3u8
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="018.png",Rai Movie
