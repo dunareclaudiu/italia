@@ -20,15 +20,15 @@ http://62.210.83.136:7898/zkfhNRSpJO/K5xk3WarA5/149028
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="004.png",Rete 4
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/2XgIrR9",Rete 4 HD
-http://62.210.83.136:2095/zkfhNRSpJO/K5xk3WarA5/148742
+
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="006.png",Italia 1
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/2zLGDXh",Italia 1 HD
-http://62.210.83.136:2095/zkfhNRSpJO/K5xk3WarA5/148752
+
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="005.png",Canale 5
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/3gE94Y0",Canale 5 HD
-http://62.210.83.136:2095/zkfhNRSpJO/K5xk3WarA5/148747
+
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/3ghJE27",Discovery Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/2AYkAgh",Discovery DMAX
