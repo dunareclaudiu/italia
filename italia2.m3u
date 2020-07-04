@@ -16,7 +16,7 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_12
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="019.png",Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8
 #EXTINF:-1,tvg-id="Rai Sport 2" group-title="RAI" tvg-logo="https://bit.ly/3ew49GP",Rai Sport
-http://185.178.92.165:9981/stream/channelid/1512722955
+http://94.232.252.60:80/do0qbWpf8e/hdHQzAE5iD/384
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="004.png",Rete 4
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/2XgIrR9",Rete 4 HD
@@ -42,17 +42,17 @@ http://185.178.92.165:9981/stream/channelid/601282913
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/3d0Sq2p",Discovery Home & Garden
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3eyHvh8",Sky Cinema Uno HD
-
-#EXTINF:-1,tvg-id="" group-title="Premium" tvg-logo="https://bit.ly/3gl2Fjf",Premium Cinema
-http://185.178.92.165:9981/stream/channelid/589813390 
-#EXTINF:-1,tvg-id="" group-title="Premium" tvg-logo="https://bit.ly/38o7uFI",Premium Action
-http://185.178.92.165:9981/stream/channelid/1576748672 
+http://94.232.252.60:80/do0qbWpf8e/hdHQzAE5iD/289
+#EXTINF:-1,tvg-id="" group-title="Premium" tvg-logo="https://bit.ly/3gl2Fjf",Premium Cinema HD
+http://94.232.252.60:80/do0qbWpf8e/hdHQzAE5iD/62484
+#EXTINF:-1,tvg-id="" group-title="Premium" tvg-logo="https://bit.ly/38o7uFI",Premium Action HD
+http://94.232.252.60:80/do0qbWpf8e/hdHQzAE5iD/62489
 #EXTINF:-1,tvg-id="" group-title="Premium" tvg-logo="https://bit.ly/2NTJUY2",Premium Crime
 http://185.178.92.165:9981/stream/channelid/181500490 
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3dwMPjV",Sky Atlantic HD
-http://185.178.92.165:9981/stream/channelid/323710506
+http://94.232.252.60:80/do0qbWpf8e/hdHQzAE5iD/311
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/36xfi7u",Paramount Network
-http://185.178.92.165:9981/stream/channelid/653748505
+http://94.232.252.60:80/do0qbWpf8e/hdHQzAE5iD/59
 #EXTINF:-1,Spike
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-b.m3u8
 #EXTINF:-1,Focus
@@ -68,7 +68,7 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/3daMqUI",Mediaset 20
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LB)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/2XfCP9F",Cielo
-http://185.178.92.165:9981/stream/channelid/586166385
+http://94.232.252.60:80/do0qbWpf8e/hdHQzAE5iD/63240
 #EXTINF:-1,Mediaset Extra
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KQ)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/3gnrBYw",TGCOM24
@@ -81,12 +81,16 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 
 #EXTINF:-1,tvg-id="" group-title="Digi" tvg-logo="https://bit.ly/3cskbQu",Digi Sport 4
 
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3gk49ua",Sky Sport Seria A
-http://185.178.92.165:9981/stream/channelid/735681412
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3gk49ua",Sky Sport Seria A HD
+http://94.232.252.60:80/do0qbWpf8e/hdHQzAE5iD/57520
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3iw77Oj",Sky Sport 24
-http://185.178.92.165:9981/stream/channelid/374485537
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2Vdj4hC",Sky Sport Uno
-http://185.178.92.165:9981/stream/channelid/924551544
+http://94.232.252.60:80/do0qbWpf8e/hdHQzAE5iD/285
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2Vdj4hC",Sky Sport Uno HD
+http://94.232.252.60:80/do0qbWpf8e/hdHQzAE5iD/275
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2D0Tl5N",Sky Sport MotoGP HD
+http://94.232.252.60:80/do0qbWpf8e/hdHQzAE5iD/279
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2Zzxquh",Sky Sport Formula 1 HD
+http://94.232.252.60:80/do0qbWpf8e/hdHQzAE5iD/361
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2A6p1oO",Company TV
 http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
 #EXTINF:-1,Deejay TV
