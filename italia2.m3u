@@ -73,6 +73,10 @@ http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/12289
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KQ)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/3gnrBYw",TGCOM24
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KF)/index.m3u8
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2YWjV8J",National Geographic Wild HD
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/26829 nat geo wild
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/38p4lFU",Discovery Channel HD
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/1215
 #EXTINF:-1,tvg-id="" group-title="Digi" tvg-logo="https://bit.ly/2zq330e",Digi Sport 1
 
 #EXTINF:-1,tvg-id="" group-title="Digi" tvg-logo="https://bit.ly/2zfmQiZ",Digi Sport 2
@@ -81,16 +85,16 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 
 #EXTINF:-1,tvg-id="" group-title="Digi" tvg-logo="https://bit.ly/3cskbQu",Digi Sport 4
 
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3gk49ua",Sky Sport Seria A HD
-http://94.232.252.60:80/do0qbWpf8e/hdHQzAE5iD/57520
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3gk49ua",Sky Sport Serie A HD
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/122126
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3iw77Oj",Sky Sport 24
-http://94.232.252.60:80/do0qbWpf8e/hdHQzAE5iD/285
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/913
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2Vdj4hC",Sky Sport Uno HD
-http://94.232.252.60:80/do0qbWpf8e/hdHQzAE5iD/275
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/114025
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2D0Tl5N",Sky Sport MotoGP HD
-http://94.232.252.60:80/do0qbWpf8e/hdHQzAE5iD/279
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/918
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2Zzxquh",Sky Sport Formula 1 HD
-http://94.232.252.60:80/do0qbWpf8e/hdHQzAE5iD/361
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/917
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2A6p1oO",Company TV
 http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
 #EXTINF:-1,Deejay TV
