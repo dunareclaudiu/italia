@@ -43,14 +43,14 @@ http://185.178.92.165:9981/stream/channelid/601282913
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3eyHvh8",Sky Cinema Uno HD
 http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/886
-#EXTINF:-1,tvg-id="" group-title="Premium" tvg-logo="https://bit.ly/3gl2Fjf",Premium Cinema HD
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3dwMPjV",Sky Atlantic HD
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/901
+#EXTINF:-1,tvg-id="" group-title="Premium" tvg-logo="https://bit.ly/3gl2Fjf",Premium Cinema1 HD
 http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/27932
 #EXTINF:-1,tvg-id="" group-title="Premium" tvg-logo="https://bit.ly/38o7uFI",Premium Action HD
 http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/954
 #EXTINF:-1,tvg-id="" group-title="Premium" tvg-logo="https://bit.ly/2NTJUY2",Premium Crime HD
 http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/27947
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3dwMPjV",Sky Atlantic HD
-http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/901
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/36xfi7u",Paramount Network
 http://151.60.47.49:9981/stream/channelid/282520575
 #EXTINF:-1,Spike
@@ -81,10 +81,10 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 
 #EXTINF:-1,tvg-id="" group-title="Digi" tvg-logo="https://bit.ly/3cskbQu",Digi Sport 4
 
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3iw77Oj",Sky Sport 24 HD
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/913
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3gk49ua",Sky Sport Serie A HD
 http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/122126
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3iw77Oj",Sky Sport 24
-http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/913
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2Vdj4hC",Sky Sport Uno HD
 http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/114025
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2D0Tl5N",Sky Sport MotoGP HD
