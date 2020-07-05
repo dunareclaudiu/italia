@@ -16,7 +16,7 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_12
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="019.png",Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8
 #EXTINF:-1,tvg-id="Rai Sport 2" group-title="RAI" tvg-logo="https://bit.ly/3ew49GP",Rai Sport
-http://94.232.252.60:80/sjsj790bklpahfn/jeow73i2hws/384
+http://exnovo.li:3388/P8lKvKV5mI/VPYx1OuqXn/261248
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="004.png",Rete 4
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/2XgIrR9",Rete 4 HD
@@ -42,17 +42,17 @@ http://185.178.92.165:9981/stream/channelid/601282913
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/3d0Sq2p",Discovery Home & Garden
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3eyHvh8",Sky Cinema Uno HD
-http://94.232.252.60:80/sjsj790bklpahfn/jeow73i2hws/289
+http://exnovo.li:3388/P8lKvKV5mI/VPYx1OuqXn/261441
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3dwMPjV",Sky Atlantic HD
-http://94.232.252.60:80/sjsj790bklpahfn/jeow73i2hws/311
+http://exnovo.li:3388/P8lKvKV5mI/VPYx1OuqXn/261360
 #EXTINF:-1,tvg-id="" group-title="Premium" tvg-logo="https://bit.ly/3gl2Fjf",Premium Cinema1 HD
-http://94.232.252.60:80/sjsj790bklpahfn/jeow73i2hws/62484
+http://exnovo.li:3388/P8lKvKV5mI/VPYx1OuqXn/261409
 #EXTINF:-1,tvg-id="" group-title="Premium" tvg-logo="https://bit.ly/38o7uFI",Premium Action HD
-http://94.232.252.60:80/sjsj790bklpahfn/jeow73i2hws/62489
+http://exnovo.li:3388/P8lKvKV5mI/VPYx1OuqXn/90161
 #EXTINF:-1,tvg-id="" group-title="Premium" tvg-logo="https://bit.ly/2NTJUY2",Premium Crime HD
-http://185.178.92.165:9981/stream/channelid/181500490
+http://exnovo.li:3388/P8lKvKV5mI/VPYx1OuqXn/78307
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/36xfi7u",Paramount Network
-http://94.232.252.60:80/sjsj790bklpahfn/jeow73i2hws/59
+http://185.178.92.165:9981/stream/channelid/653748505
 #EXTINF:-1,Spike
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-b.m3u8
 #EXTINF:-1,Focus
@@ -68,7 +68,7 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/3daMqUI",Mediaset 20
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LB)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/2XfCP9F",Cielo
-http://94.232.252.60:80/sjsj790bklpahfn/jeow73i2hws/63240
+http://exnovo.li:3388/P8lKvKV5mI/VPYx1OuqXn/261498
 #EXTINF:-1,Mediaset Extra
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KQ)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/3gnrBYw",TGCOM24
@@ -82,15 +82,15 @@ http://212.8.252.59:88/live/anka/anka/2194.ts
 #EXTINF:-1,tvg-id="" group-title="Digi" tvg-logo="https://bit.ly/3cskbQu",Digi Sport 4
 http://212.8.252.59:88/live/anka/anka/2193.ts
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3iw77Oj",Sky Sport 24 HD
-http://94.232.252.60:80/sjsj790bklpahfn/jeow73i2hws/285
+http://exnovo.li:3388/P8lKvKV5mI/VPYx1OuqXn/261284
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3gk49ua",Sky Sport Serie A HD
-http://94.232.252.60:80/sjsj790bklpahfn/jeow73i2hws/57520
+http://exnovo.li:3388/P8lKvKV5mI/VPYx1OuqXn/261234
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2Vdj4hC",Sky Sport Uno HD
-http://94.232.252.60:80/sjsj790bklpahfn/jeow73i2hws/275
+http://exnovo.li:3388/P8lKvKV5mI/VPYx1OuqXn/72609
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2D0Tl5N",Sky Sport MotoGP HD
-http://94.232.252.60:80/sjsj790bklpahfn/jeow73i2hws/279
+http://exnovo.li:3388/P8lKvKV5mI/VPYx1OuqXn/72613
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2Zzxquh",Sky Sport Formula 1 HD
-http://94.232.252.60:80/sjsj790bklpahfn/jeow73i2hws/361
+http://exnovo.li:3388/P8lKvKV5mI/VPYx1OuqXn/261280
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2A6p1oO",Company TV
 http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
 #EXTINF:-1,Deejay TV
