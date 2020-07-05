@@ -74,13 +74,13 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/3gnrBYw",TGCOM24
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KF)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="Digi" tvg-logo="https://bit.ly/2zq330e",Digi Sport 1
-
+http://212.8.252.59:88/live/anka/anka/2196.ts
 #EXTINF:-1,tvg-id="" group-title="Digi" tvg-logo="https://bit.ly/2zfmQiZ",Digi Sport 2
-
+http://212.8.252.59:88/live/anka/anka/2195.ts
 #EXTINF:-1,tvg-id="" group-title="Digi" tvg-logo="https://bit.ly/3gKfDrW",Digi Sport 3
-
+http://212.8.252.59:88/live/anka/anka/2194.ts
 #EXTINF:-1,tvg-id="" group-title="Digi" tvg-logo="https://bit.ly/3cskbQu",Digi Sport 4
-
+http://212.8.252.59:88/live/anka/anka/2193.ts
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3iw77Oj",Sky Sport 24 HD
 http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/913
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3gk49ua",Sky Sport Serie A HD
