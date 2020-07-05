@@ -2,7 +2,7 @@
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="001.png",Rai 1
 https://raiuno2-live.akamaized.net/hls/live/598309/raiuno2/raiuno2/playlist.m3u8
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="002.png",Rai 2
-http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/28060
+http://213.45.113.140:9981/stream/channelid/27094221
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="003.png",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="004.png",Rai 4
