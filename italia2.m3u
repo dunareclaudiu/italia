@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="001.png",Rai 1
-https://raiuno2-live.akamaized.net/hls/live/598309/raiuno2/raiuno2/playlist.m3u8
+http://exnovo.li:3388/P8lKvKV5mI/VPYx1OuqXn/261468
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="002.png",Rai 2
 http://213.45.113.140:9981/stream/channelid/27094221
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="003.png",Rai 3
@@ -38,7 +38,7 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/3efsC2Y",Discovery Real Time
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/2zpQHVR",Discovery Motor Trend
-http://185.178.92.165:9981/stream/channelid/601282913
+http://exnovo.li:3388/P8lKvKV5mI/VPYx1OuqXn/76328
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/3d0Sq2p",Discovery Home & Garden
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3e3g4Lx",Sky Cinema Comedy HD
@@ -54,7 +54,7 @@ http://exnovo.li:3388/P8lKvKV5mI/VPYx1OuqXn/90161
 #EXTINF:-1,tvg-id="" group-title="Premium" tvg-logo="https://bit.ly/2NTJUY2",Premium Crime HD
 http://exnovo.li:3388/P8lKvKV5mI/VPYx1OuqXn/78307
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/36xfi7u",Paramount Network
-http://185.178.92.165:9981/stream/channelid/653748505
+http://185.178.92.165:9981/stream/channelid/55347764
 #EXTINF:-1,Spike
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-b.m3u8
 #EXTINF:-1,Focus
