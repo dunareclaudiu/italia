@@ -41,17 +41,17 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2989
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/3d0Sq2p",Discovery Home & Garden
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3e3g4Lx",Sky Cinema Comedy HD
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3e3g4Lx",Sky Cinema Comedy
 http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2775
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3eyHvh8",Sky Cinema Uno HD
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3eyHvh8",Sky Cinema Uno
 http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2755
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3dwMPjV",Sky Atlantic HD
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3dwMPjV",Sky Atlantic
 http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2813
-#EXTINF:-1,tvg-id="" group-title="Premium" tvg-logo="https://bit.ly/3gl2Fjf",Premium Cinema1 HD
+#EXTINF:-1,tvg-id="" group-title="Premium" tvg-logo="https://bit.ly/3gl2Fjf",Premium Cinema1
 http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2821
-#EXTINF:-1,tvg-id="" group-title="Premium" tvg-logo="https://bit.ly/38o7uFI",Premium Action HD
+#EXTINF:-1,tvg-id="" group-title="Premium" tvg-logo="https://bit.ly/38o7uFI",Premium Action
 http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2829
-#EXTINF:-1,tvg-id="" group-title="Premium" tvg-logo="https://bit.ly/2NTJUY2",Premium Crime HD
+#EXTINF:-1,tvg-id="" group-title="Premium" tvg-logo="https://bit.ly/2NTJUY2",Premium Crime
 http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2832
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/36xfi7u",Paramount Network
 http://185.178.92.165:9981/stream/channelid/55347764
@@ -83,15 +83,15 @@ http://212.8.252.59:88/live/anka/anka/2195.ts
 http://212.8.252.59:88/live/anka/anka/2194.ts
 #EXTINF:-1,tvg-id="" group-title="Digi" tvg-logo="https://bit.ly/3cskbQu",Digi Sport 4
 http://212.8.252.59:88/live/anka/anka/2193.ts
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3iw77Oj",Sky Sport 24 HD
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3iw77Oj",Sky Sport 24
 http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2962
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3gk49ua",Sky Sport Serie A HD
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3gk49ua",Sky Sport Serie A
 http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/3016
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2Vdj4hC",Sky Sport Uno HD
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2Vdj4hC",Sky Sport Uno
 http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2964
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2D0Tl5N",Sky Sport MotoGP HD
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2D0Tl5N",Sky Sport MotoGP
 http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2976
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2Zzxquh",Sky Sport Formula 1 HD
+#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2Zzxquh",Sky Sport Formula 1
 http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2973
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2A6p1oO",Company TV
 http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
