@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="001.png",Rai 1
-http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2703
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/28059
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="002.png",Rai 2
-http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2706
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/28060
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="003.png",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="004.png",Rai 4
@@ -16,7 +16,7 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_12
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="019.png",Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8
 #EXTINF:-1,tvg-id="Rai Sport 2" group-title="RAI" tvg-logo="https://bit.ly/3ew49GP",Rai Sport
-http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2993
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/1231
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="004.png",Rete 4
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/2XgIrR9",Rete 4 HD
@@ -34,25 +34,25 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/2AYkAgh",Discovery DMAX
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/2XmSLWJ",Discovery Giallo
-http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2870
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/4133
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/3efsC2Y",Discovery Real Time
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/2zpQHVR",Discovery Motor Trend
-http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2989
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/1023
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/3d0Sq2p",Discovery Home & Garden
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3e3g4Lx",Sky Cinema Comedy
-http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2775
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/893
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3eyHvh8",Sky Cinema Uno
-http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2755
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/122053
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3dwMPjV",Sky Atlantic
-http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2813
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/122051
 #EXTINF:-1,tvg-id="" group-title="Premium" tvg-logo="https://bit.ly/3gl2Fjf",Premium Cinema1
-http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2821
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/35528
 #EXTINF:-1,tvg-id="" group-title="Premium" tvg-logo="https://bit.ly/38o7uFI",Premium Action
-http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2829
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/35530
 #EXTINF:-1,tvg-id="" group-title="Premium" tvg-logo="https://bit.ly/2NTJUY2",Premium Crime
-http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2832
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/124040
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/36xfi7u",Paramount Network
 http://185.178.92.165:9981/stream/channelid/55347764
 #EXTINF:-1,Spike
@@ -84,15 +84,15 @@ http://212.8.252.59:88/live/anka/anka/2194.ts
 #EXTINF:-1,tvg-id="" group-title="Digi" tvg-logo="https://bit.ly/3cskbQu",Digi Sport 4
 http://212.8.252.59:88/live/anka/anka/2193.ts
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3iw77Oj",Sky Sport 24
-http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2962
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/122027
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3gk49ua",Sky Sport Serie A
-http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/3016
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/122126
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2Vdj4hC",Sky Sport Uno
-http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2964
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/28098
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2D0Tl5N",Sky Sport MotoGP
-http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2976
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/122031
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2Zzxquh",Sky Sport Formula 1
-http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2973
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/122037
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2A6p1oO",Company TV
 http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
 #EXTINF:-1,Deejay TV
@@ -104,11 +104,11 @@ https://rtl-radio-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/2ZBEW9x",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/2DfsCTr",National Geographic
-http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2877
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/222085
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/2VM6ZAi",National Geographic Wild
-http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2881
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/932
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/2YYTRK4",Discovery Channel
-http://disback.dyndns.tv:8000/mag00:1A:79:A4:D0:A3/znyZP0Oboi/2855
+http://141.98.232.14:8000/danielezedda/OQcKOtFMkX/933
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2TxUqHS",TV 2000
 http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="026.png",Italia 2
