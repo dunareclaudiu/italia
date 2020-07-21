@@ -10,11 +10,11 @@ https://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="017.png",Rai 5
 http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/master.m3u8
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="018.png",Rai Movie
-http://iptvlive.stream:80/p/1015948/c/97/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
+http://93.46.60.64:9981/stream/channelid/1987995031
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="032.png",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1200/chunklist.m3u8
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="019.png",Rai Premium
-http://iptvlive.stream:80/p/1015948/c/98/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
+http://93.46.60.64:9981/stream/channelid/36021282
 #EXTINF:-1,tvg-id="Rai Sport 2" group-title="RAI" tvg-logo="https://bit.ly/3ew49GP",Rai Sport
 
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/3ghJE27",Discovery Nove
