@@ -2,7 +2,7 @@
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="001.png",Rai 1
 http://iptvlive.stream:80/p/974499/c/103/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="002.png",Rai 2
-http://213.45.113.140:9981/stream/channelid/27094221
+http://iptvlive.stream:80/p/965419/c/159/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="003.png",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="004.png",Rai 4
