@@ -8,7 +8,7 @@ http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="004.png",Rai 4
 http://93.46.60.64:9981/stream/channelid/47821643
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="017.png",Rai 5
-http://85.7.43.69:2095/udp/239.186.66.179:10000
+http://93.46.60.64:9981/stream/channelid/1719991398
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="018.png",Rai Movie
 http://93.46.60.64:9981/stream/channelid/1987995031
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="032.png",Rai News 24
