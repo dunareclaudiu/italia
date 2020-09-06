@@ -97,5 +97,5 @@ http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I2)/index.m3u8
 #EXTINF:-1,Boing
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/index.m3u8
-#EXTINF:-1,Test
+#EXTINF:-1,Test2
 http://iptvlive.stream:80/p/684700/c/204/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
