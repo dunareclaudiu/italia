@@ -8,7 +8,7 @@ http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="004.png",Rai 4
 http://iptvlive.stream:80/p/1026159/c/326/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="017.png",Rai 5
-http://93.46.60.64:9981/stream/channelid/1719991398
+http://50.7.89.218:25461/live/dreamsatmaroc/DNreRle3sN/11048.ts?token=HRVRB0ZeEVhGAFdQAgYAVQ8PCAtRB1sPUlIFVQcNVlRWAF9QA1ABVlwaGRcVEUpRVlpuWlZEWQlQBF8FSRoQFgNFZg9RFAlAVxoZFxIMVVEVDQEfEBYKXEMORAFSDVNTRBsbA01CVhAKWVlqAgBOXVRSEwlcEw9UTRYJXjpcAAgHWV1EDxQCQEgaXEYWRwJaQltdHxAECkwTVRJVRwJHXFQHG0oXVVwXCkxHTERfGnByFR0RVx4XXQ9HD18LGl9HCwRMXhcaEQsXZ0dQFRFKUVZaVEEQXEEIQxhEXQRAOgYJWVcDVkJaDQpLFw9EUAgEBwcTHxALDFYIQAlCOkgMAUQNG1cCAwZQRkU=
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="018.png",Rai Movie
 http://93.46.60.64:9981/stream/channelid/1987995031
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="032.png",Rai News 24
