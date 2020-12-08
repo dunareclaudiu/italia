@@ -8,13 +8,13 @@ http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="004.png",Rai 4
 http://iptvlive.stream:80/p/1055609/c/27/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c.m3u8
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="017.png",Rai 5
-http://50.7.89.218:25461/live/dreamsatmaroc/DNreRle3sN/11048.ts?token=HRVRB0ZeEVhGAFdQAgYAVQ8PCAtRB1sPUlIFVQcNVlRWAF9QA1ABVlwaGRcVEUpRVlpuWlZEWQlQBF8FSRoQFgNFZg9RFAlAVxoZFxIMVVEVDQEfEBYKXEMORAFSDVNTRBsbA01CVhAKWVlqAgBOXVRSEwlcEw9UTRYJXjpcAAgHWV1EDxQCQEgaXEYWRwJaQltdHxAECkwTVRJVRwJHXFQHG0oXVVwXCkxHTERfGnByFR0RVx4XXQ9HD18LGl9HCwRMXhcaEQsXZ0dQFRFKUVZaVEEQXEEIQxhEXQRAOgYJWVcDVkJaDQpLFw9EUAgEBwcTHxALDFYIQAlCOkgMAUQNG1cCAwZQRkU=
+http://iptvlive.stream:80/p/913064/c/241/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c.m3u8
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="018.png",Rai Movie
 http://iptvlive.stream:80/p/1072260/c/13/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="032.png",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1200/chunklist.m3u8
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="019.png",Rai Premium
-http://50.7.89.218:25461/live/dreamsatmaroc/DNreRle3sN/11068.ts?token=HRVRB0ZeEVhGAFdQAgYAVQ8PCAtRB1sPUlIFVQcNVlRWAF9QA1ABVlwaGRcVEUpRVlpuWlZEWQlQBF8FSRoQFgNFZg9RFAlAVxoZFxIMVVEVDQEfEBYKXEMORAFSDVNTRBsbA01CVhAKWVlqAgBOXVRSEwlcEw9UTRYJXjpcAAgHWV1EDxQCQEgaXEYWRwJaQltdHxAECkwTVRJVRwJHXFQHG0oXVVwXCkxHTERfGnByFR0RVx4XXQ9HD18LGl9HCwRMXhcaEQsXZ0dQFRFKUVZaVEEQXEEIQxhEXQRAOgYJWVcDVkJaDQpLFw9EUAgEBwcTHxALDFYIQAlCOkgMAUQNG1cCAwZQRkU=
+http://151.95.138.176:9981/stream/channelid/604621786
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="https://bit.ly/3ew49GP",Rai Sport
 http://iptvlive.stream:80/p/1044430/c/139/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="006.png",Italia 1
@@ -86,7 +86,7 @@ http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3bZ4KyW",M2o TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3daPeBe",RTL 102.5 TV
-https://rtl-radio-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
+http://iptvlive.stream:80/p/1055609/c/87/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/2ZBEW9x",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/2DfsCTr",National Geographic
