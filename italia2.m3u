@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="001.png",Rai 1
-http://iptvlive.stream:80/p/965419/c/158/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
+http://iptvlive.stream:80/p/1118552/c/85/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="002.png",Rai 2
-http://iptvlive.stream:80/p/965419/c/159/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
+http://iptvlive.stream:80/p/1083235/c/210/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="003.png",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="004.png",Rai 4
-http://iptvlive.stream:80/p/1055609/c/27/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c.m3u8
+http://iptvlive.stream:80/p/1072260/c/10/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="017.png",Rai 5
 http://iptvlive.stream:80/p/913064/c/241/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c.m3u8
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="018.png",Rai Movie
@@ -86,7 +86,7 @@ http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3bZ4KyW",M2o TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3daPeBe",RTL 102.5 TV
-http://iptvlive.stream:80/p/1055609/c/87/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c.m3u8
+http://iptvlive.stream:80/p/1100602/c/23/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/2ZBEW9x",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/2DfsCTr",National Geographic
