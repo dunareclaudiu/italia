@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="001.png",Rai 1
-http://iptvlive.stream:80/p/1118552/c/85/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
+http://iptvlive.stream:80/p/1173731/c/31/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c.m3u8
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="002.png",Rai 2
 http://iptvlive.stream:80/p/1083235/c/210/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="003.png",Rai 3
@@ -18,11 +18,11 @@ http://tsp-pro.net:5115/sRjQqDhop25J/Vmqk7C2zWy/510
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="https://bit.ly/3ew49GP",Rai Sport
 http://tsp-pro.net:5115/sRjQqDhop25J/Vmqk7C2zWy/738
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="006.png",Italia 1
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/index.m3u8
+http://iptvlive.stream:80/p/1168651/c/147/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="005.png",Canale 5
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
+http://ip365.cx:80/591479399642519/845556651954303/194165?checkedby:iptvcat.com
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="004.png",Rete 4
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+http://iptvlive.stream:80/p/1168651/c/149/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/3ghJE27",Discovery Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/2AYkAgh",Discovery DMAX
