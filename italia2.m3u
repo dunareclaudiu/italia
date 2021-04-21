@@ -2,7 +2,7 @@
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="001.png",Rai 1
 http://iptvlive.stream:80/p/1173731/c/31/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c.m3u8
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="002.png",Rai 2
-http://iptvlive.stream:80/p/1083235/c/210/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
+http://iptvlive.stream:80/p/1172205/c/19/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c.m3u8
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="003.png",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="004.png",Rai 4
@@ -14,7 +14,7 @@ http://iptvlive.stream:80/p/1133277/c/25/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="032.png",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1200/chunklist.m3u8
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="019.png",Rai Premium
-http://tsp-pro.net:5115/sRjQqDhop25J/Vmqk7C2zWy/510
+http://iptvlive.stream:80/p/1183883/c/422/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c.m3u8
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="https://bit.ly/3ew49GP",Rai Sport
 http://tsp-pro.net:5115/sRjQqDhop25J/Vmqk7C2zWy/738
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="006.png",Italia 1
