@@ -7,8 +7,6 @@ http://iptvlive.stream:80/p/1172205/c/19/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="004.png",Rai 4
 http://iptvlive.stream:80/p/1072260/c/10/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
-#EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="017.png",Rai 5
-
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="018.png",Rai Movie
 http://iptvlive.stream:80/p/1133277/c/25/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="032.png",Rai News 24
@@ -41,8 +39,6 @@ http://iptvlive.stream:80/p/1133277/c/39/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 http://iptvlive.stream:80/p/916145/c/26/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,Focus
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(FU)/index.m3u8
-#EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/2WWN6aC",Cine 34
-
 #EXTINF:-1,La 5
 http://iptvlive.stream:80/p/1133277/c/135/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,Iris
@@ -67,12 +63,3 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 http://iptvlive.stream:80/p/1100602/c/23/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/2ZBEW9x",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/2DfsCTr",National Geographic
-
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2TxUqHS",TV 2000
-http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
-#EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="026.png",Italia 2
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I2)/index.m3u8
-#EXTINF:-1,Boing
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/index.m3u8
-
