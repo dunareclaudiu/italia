@@ -35,12 +35,6 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 http://iptvlive.stream:80/p/916145/c/1/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/3d0Sq2p",Discovery Home & Garden
 http://iptvlive.stream:80/p/1133277/c/39/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2ZlONjc",Sky Uno
-http://iptvlive.stream:80/p/1066527/c/3/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c.m3u8
-#EXTINF:-1,tvg-id="" group-title="Premium" tvg-logo="https://bit.ly/3gl2Fjf",Premium Cinema 3
-
-#EXTINF:-1,tvg-id="" group-title="Premium" tvg-logo="https://bit.ly/2ZkFcJs",Premium Stories
-http://iptvlive.stream:80/p/916145/c/20/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/36xfi7u",Paramount Network
 http://iptvlive.stream:80/p/916145/c/17/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,Spike
@@ -56,23 +50,15 @@ http://iptvlive.stream:80/p/1168651/c/172/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3
 #EXTINF:-1,Top Crime
 http://iptvlive.stream:80/p/1168651/c/576/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/3daMqUI",Mediaset 20
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LB)/index.m3u8
+
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/2XfCP9F",Cielo
 http://iptvlive.stream:80/p/916145/c/4/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,Mediaset Extra
 http://iptvlive.stream:80/p/1133277/c/116/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/3gnrBYw",TGCOM24
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KF)/index.m3u8
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3iw77Oj",Sky Sport 24
-http://iptvlive.stream:80/p/916145/c/22/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3gk49ua",Sky Sport Serie A
-http://extra-iptv-stream.com:8000/XsVFq0qbAz/4wxn0A4qBH/74854
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2Vdj4hC",Sky Sport Uno
-http://extra-iptv-stream.com:8000/XsVFq0qbAz/4wxn0A4qBH/74892
-#EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2ZmvrKZ",Sky Sport Collection
-http://extra-iptv-stream.com:8000/XsVFq0qbAz/4wxn0A4qBH/74916
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/2A6p1oO",Company TV
-http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
+https://iptvcat.com/my_list/s/1f3d6297d4b6ae7bfdd38866ad7caf56.m3u8
 #EXTINF:-1,Deejay TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1,tvg-id="" group-title="Sky" tvg-logo="https://bit.ly/3bZ4KyW",M2o TV
