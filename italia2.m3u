@@ -8,7 +8,7 @@ http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="004.png",Rai 4
 http://iptvlive.stream:80/p/1072260/c/10/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="017.png",Rai 5
-http://iptvlive.stream:80/p/913064/c/241/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c.m3u8
+
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="018.png",Rai Movie
 http://iptvlive.stream:80/p/1133277/c/25/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="032.png",Rai News 24
@@ -36,13 +36,13 @@ http://iptvlive.stream:80/p/916145/c/1/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/3d0Sq2p",Discovery Home & Garden
 http://iptvlive.stream:80/p/1133277/c/39/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/36xfi7u",Paramount Network
-http://iptvlive.stream:80/p/916145/c/17/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
+
 #EXTINF:-1,Spike
 http://iptvlive.stream:80/p/916145/c/26/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,Focus
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(FU)/index.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/2WWN6aC",Cine 34
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
+
 #EXTINF:-1,La 5
 http://iptvlive.stream:80/p/1133277/c/135/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,Iris
