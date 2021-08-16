@@ -1,49 +1,48 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="001.png",Rai 1
-http://iptvlive.stream:80/p/1173731/c/31/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c.m3u8
+http://iptvlive.stream:80/p/1256805/c/37/u/278105/mT7zgRNwwcMD1GMNjheNJVSWKRvgbt
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="002.png",Rai 2
-http://iptvlive.stream:80/p/1172205/c/19/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c.m3u8
+http://iptvlive.stream:80/p/1256805/c/36/u/278105/mT7zgRNwwcMD1GMNjheNJVSWKRvgbt
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="003.png",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="004.png",Rai 4
-http://iptvlive.stream:80/p/1072260/c/10/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
+http://iptvlive.stream:80/p/1256805/c/51/u/278105/mT7zgRNwwcMD1GMNjheNJVSWKRvgbt
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="018.png",Rai Movie
-http://iptvlive.stream:80/p/1133277/c/25/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
+http://iptvlive.stream:80/p/1256805/c/28/u/278105/mT7zgRNwwcMD1GMNjheNJVSWKRvgbt
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="032.png",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1200/chunklist.m3u8
 #EXTINF:-1,tvg-id="" group-title="RAI" tvg-logo="019.png",Rai Premium
-http://iptvlive.stream:80/p/1133277/c/3/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
+http://iptvlive.stream:80/p/1256805/c/27/u/278105/mT7zgRNwwcMD1GMNjheNJVSWKRvgbt
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="006.png",Italia 1
-http://iptvlive.stream:80/p/1168651/c/147/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
+http://iptvlive.stream:80/p/1256805/c/71/u/278105/mT7zgRNwwcMD1GMNjheNJVSWKRvgbt
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="005.png",Canale 5
-http://iptvlive.stream:80/p/1182473/c/35/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c.m3u8
+http://iptvlive.stream:80/p/1256805/c/70/u/278105/mT7zgRNwwcMD1GMNjheNJVSWKRvgbt
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="004.png",Rete 4
-http://iptvlive.stream:80/p/1168651/c/149/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
+http://iptvlive.stream:80/p/1256805/c/72/u/278105/mT7zgRNwwcMD1GMNjheNJVSWKRvgbt
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/3ghJE27",Discovery Nove
-http://iptvlive.stream:80/p/1168651/c/239/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
+http://iptvlive.stream:80/p/1256805/c/6/u/278105/mT7zgRNwwcMD1GMNjheNJVSWKRvgbt
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/2AYkAgh",Discovery DMAX
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
+http://iptvlive.stream:80/p/1256805/c/19/u/278105/mT7zgRNwwcMD1GMNjheNJVSWKRvgbt
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/2XmSLWJ",Discovery Giallo
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+http://iptvlive.stream:80/p/1256805/c/24/u/278105/mT7zgRNwwcMD1GMNjheNJVSWKRvgbt
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/3efsC2Y",Discovery Real Time
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+http://iptvlive.stream:80/p/1256805/c/29/u/278105/mT7zgRNwwcMD1GMNjheNJVSWKRvgbt
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/2zpQHVR",Discovery Motor Trend
 http://iptvlive.stream:80/p/916145/c/1/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,tvg-id="" group-title="Discovery" tvg-logo="https://bit.ly/3d0Sq2p",Discovery Home & Garden
-http://iptvlive.stream:80/p/1133277/c/39/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
-#EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/36xfi7u",Paramount Network
+http://iptvlive.stream:80/p/1256805/c/18/u/278105/mT7zgRNwwcMD1GMNjheNJVSWKRvgbt
 #EXTINF:-1,Focus
-http://iptvlive.stream:80/p/1168651/c/532/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
+http://iptvlive.stream:80/p/1256805/c/15/u/278105/mT7zgRNwwcMD1GMNjheNJVSWKRvgbt
 #EXTINF:-1,La 5
 http://iptvlive.stream:80/p/1133277/c/135/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
 #EXTINF:-1,Iris
-http://dimapro.cz:80/00:1A:79:16:FA:6C/buk42424BBBB/18342
+http://iptvlive.stream:80/p/1256805/c/53/u/278105/mT7zgRNwwcMD1GMNjheNJVSWKRvgbt
 #EXTINF:-1,Top Crime
-http://85.203.33.88:80/kyDmnQY5Qs50/j5Ex4t32/8241
+http://iptvlive.stream:80/p/1256805/c/31/u/278105/mT7zgRNwwcMD1GMNjheNJVSWKRvgbt
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/3daMqUI",Mediaset 20
 http://iptvlive.stream:80/p/1191955/c/604/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c.m3u8
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/2XfCP9F",Cielo
-http://iptvlive.stream:80/p/916145/c/4/u/278105/KK9eC6QThBdgHm7areLcuqh1rSMb3c
+http://iptvlive.stream:80/p/1256805/c/56/u/278105/mT7zgRNwwcMD1GMNjheNJVSWKRvgbt
 #EXTINF:-1,Mediaset Extra
 http://85.203.33.88:80/kyDmnQY5Qs50/j5Ex4t32/14194
 #EXTINF:-1,tvg-id="" group-title="MEDIASET" tvg-logo="https://bit.ly/3w7NdyN",7GOLD
